@@ -48,7 +48,7 @@ export default function Home() {
     <main>
       <div className="relative flex h-screen overflow-hidden">
         <Image
-          src="/images/background.jpg"
+          src="./images/background.jpg"
           fill
           alt="background"
           className="object-cover object-bottom"
