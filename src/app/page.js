@@ -62,13 +62,13 @@ export default function Home() {
               ref={firstText}
               className="relative m-0 pr-14 text-[10rem] leading-none text-white"
             >
-              Frontend Developer —
+              Providence of Shadows —
             </p>
             <p
               ref={secondText}
               className="absolute left-full top-0 m-0 pr-14 text-[10rem] leading-none text-white"
             >
-              Frontend Developer —
+              Providence of Shadows —
             </p>
           </div>
         </div>
